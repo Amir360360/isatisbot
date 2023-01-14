@@ -1,4 +1,5 @@
 {
  "server":"on",
- "caption":"server not message"
+ "caption":"server not message",
+ "version":"3.1"
 }
