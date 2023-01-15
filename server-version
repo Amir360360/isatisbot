@@ -1,5 +1,6 @@
 {
- "server":"on",
- "caption":"server not message",
- "version":3.1
+  "server": "on",
+  "caption": "server not message",
+  "version": 3.1,
+  "ad": "channel rubika --\u003e @R-BotRubika"
 }
